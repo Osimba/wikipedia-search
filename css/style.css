@@ -1,0 +1,15 @@
+body {
+  background-color: #333;
+}
+
+#Top {
+  color:white;
+  font-family: Cinzel;
+}
+
+.well {
+  margin: 0 20% 0 20%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
